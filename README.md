@@ -5,3 +5,5 @@ Specifically files -
 1) new_resnet_Jainik_model_domain_adaptation_5.py
 2) new_train_Jainik_model_domain_adaptation_5.py
 should be used for training and testing the model.
+
+Please create appropriate folders and place the specific files inside that folders or data will not load properly.
